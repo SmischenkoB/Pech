@@ -1,0 +1,7 @@
+D:\works_c#\Pech\Pech\bin\Debug\Pech.exe.config
+D:\works_c#\Pech\Pech\bin\Debug\Pech.exe
+D:\works_c#\Pech\Pech\bin\Debug\Pech.pdb
+D:\works_c#\Pech\Pech\obj\Debug\Pech.csprojAssemblyReference.cache
+D:\works_c#\Pech\Pech\obj\Debug\Pech.csproj.CoreCompileInputs.cache
+D:\works_c#\Pech\Pech\obj\Debug\Pech.exe
+D:\works_c#\Pech\Pech\obj\Debug\Pech.pdb
