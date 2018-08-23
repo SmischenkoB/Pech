@@ -106,12 +106,19 @@ namespace Pech
     {
         static void Main(string[] args)
         {
-            DeliveryPrice obj = new DeliveryPriceTrain();
-           // Console.WriteLine((obj.CreateTransport(60)).Count);
+            /*DeliveryPrice obj = new DeliveryPriceTrain();
+            Console.WriteLine((obj.CreateTransport(60)).Count);
             Console.WriteLine();
             //Console.WriteLine( ((DeliveryPriceTrain)obj).locomotives.Count);
             Console.WriteLine(obj.CountPrice());
-            Console.ReadLine();
+            Console.ReadLine();*/
+
+            Map map = new Map();
+
+            Console.WriteLine("where to start");
+            map.solve(Convert.ToInt32(Console.ReadLine()), Convert.ToInt32(Console.ReadLine()));
+
+
         }
     }
     
